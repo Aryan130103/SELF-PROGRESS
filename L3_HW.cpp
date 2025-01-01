@@ -1,20 +1,21 @@
 #include<iostream>
 using namespace std;
-/*int main()
+
+int main()
 {
     char ch;
     cin>>ch;
     if(ch>=65 && ch<=90)
-       cout<<"upper case"<<endl;
-       else if(ch>=97 && ch<=122)
-            cout<<"lower case"<<endl;
-            else if(ch>=48 && ch<=59)
-                 cout<<"numeric"<<endl;
-                 else
-                    cout<<"invalid"<<endl;
+        cout<<"upper case"<<endl;
+    else if(ch>=97 && ch<=122)
+        cout<<"lower case"<<endl;       
+    else if(ch>=48 && ch<=59)
+        cout<<"numeric"<<endl;
+    else
+        cout<<"invalid"<<endl;
     return 0;
 }
-
+/*
 int main()
 {
     int n=1,s=0,i;
@@ -37,6 +38,3 @@ int main(){
 
 }
 */
-int main(){
-
-}
